@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am in my final bachelor's year of Information Technology engineering looking for opportunities and collabaration in projects related to data science and deep learning.
+I am in my final bachelors year of Information Technology engineering looking for opportunities and collabaration in projects related to data science and deep learning.
 
 I have no special talents. I am only passionately curious.
 
