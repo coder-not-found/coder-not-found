@@ -11,11 +11,13 @@ I have no special talents. I am only passionately curious.
 <a href= "mailto:amesarsimran@gmail.com" />
 - Email 
 
+<script>
 const thisYear = new Date().getFullYear()
 const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
 const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
 const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
 const progressBarOfThisYear = generateProgressBar()
+</script>
 
 <!--
 **simranamesar/simranamesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
