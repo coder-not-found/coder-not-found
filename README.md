@@ -9,7 +9,7 @@ I have no special talents. I am only passionately curious.
 
 📫 How to reach me: 
 <a href= "mailto:amesarsimran@gmail.com" />
-- Email [a link] ["mailto:amesarsimran@gmail.com"] 
+- Email **amesarsimran@gmail.com**
 
 
 <!--
