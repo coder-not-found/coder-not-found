@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am looking for opportunities and collabaration in projects related to data science and deep learning.
-
 I have no special talents. I am only passionately curious.
 
 - 🌱 I’m currently learning to better my skills, one line of code at a time.
