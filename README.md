@@ -1,14 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hey, there!✨</h1>
+
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNrZWt1ZmNkcDF1NjQ1Y2k1cHlrMHNnOW9qanNwazhyc2lrZjF6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JsEDe5fTepBIDnaZKT/giphy.gif">
 
 I have no special talents. I am only passionately curious.
 
 - 🌱 I’m currently learning to better my skills, one line of code at a time.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
-
+<!--
 📫 How to reach me: 
-<a href= "mailto:amesarsimran@gmail.com" />
 - Email **amesarsimran@gmail.com**
-
+---!>
 
 <!--
 **simranamesar/simranamesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
